@@ -22,7 +22,7 @@ A machine learning project that predicts the likelihood of Alzheimer's disease u
 
 ## 🗃️ Data
 
-Data sourced from https://www.kaggle.com/code/bartoszplaniak/alzheimers-disease-prediction
+Data sourced from https://www.kaggle.com/datasets/rabieelkharoua/alzheimers-disease-dataset
 
 ## 📌 Future Improvements
 
@@ -32,4 +32,4 @@ Data sourced from https://www.kaggle.com/code/bartoszplaniak/alzheimers-disease-
 
 ## 🧑‍💻 Author
 
-Your Name – [LinkedIn](https://linkedin.com/in/bartoszplaniak) | 
+Your Name – [LinkedIn](https://linkedin.com/in/bartoszplaniak)
